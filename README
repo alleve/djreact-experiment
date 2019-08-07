@@ -1,1 +1,10 @@
 Lets do some things!
+
+. ./myenv/bin/activate
+
+If not there already:
+
+python3 -m venv myvenv
+. ./myenv/bin/activate
+pip install --upgrade pip
+pip install -r ./requirements.txt
