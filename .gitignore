@@ -2,7 +2,9 @@
 
 myvenv
 
+# Evidently the cool kids don't like repeatable deploys.
 
+django-drf-react-quickstart/node_modules/
 
 
 # Emacs
