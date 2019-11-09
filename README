@@ -22,3 +22,13 @@ Mmm, testing.
 coverage run --source='.' manage.py test
 coverage html
 coverage report
+
+
+
+
+Stuff I've got to read up on:
+
+
++ Babel
++ Webpack
++ Bulma
