@@ -4,6 +4,7 @@ myvenv
 
 # Evidently the cool kids don't like repeatable deploys.
 
+node_modules/
 django-drf-react-quickstart/node_modules/
 
 
